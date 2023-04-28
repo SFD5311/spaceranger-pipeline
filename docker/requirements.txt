@@ -1,0 +1,8 @@
+dataclasses
+pandas
+manhole~=1.8
+opencv-python
+scikit-learn
+scipy~=1.8.0
+
+git+https://github.com/hubmapconsortium/fastq-utils@v0.2.3
